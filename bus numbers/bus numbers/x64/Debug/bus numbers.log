@@ -1,0 +1,8 @@
+﻿  bus numbers.cpp
+C:\Users\n1249\source\repos\bus numbers\bus numbers\bus numbers.cpp(26,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\n1249\source\repos\bus numbers\bus numbers\bus numbers.cpp(31,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\n1249\source\repos\bus numbers\bus numbers\bus numbers.cpp(36,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\n1249\source\repos\bus numbers\bus numbers\bus numbers.cpp(41,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\n1249\source\repos\bus numbers\bus numbers\bus numbers.cpp(46,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\n1249\source\repos\bus numbers\bus numbers\bus numbers.cpp(51,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  bus numbers.vcxproj -> C:\Users\n1249\source\repos\bus numbers\x64\Debug\bus numbers.exe
